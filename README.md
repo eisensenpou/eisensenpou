@@ -32,7 +32,6 @@ Right now, I'm focused on **backend systems**, **high-performance computing**, a
 
 ## Let's connect
 
-📧 **Email:** s.c.demir36@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/sinan-can-demir  
 💻 **GitHub:** https://github.com/sinan-can-demir
 
